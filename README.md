@@ -687,4 +687,3 @@ Tawjeh-Sprint-4-SQL-/
 
 **Mohammed Elnagar**  
 - GitHub: [@Mohammed-Elnagar11](https://github.com/Mohammed-Elnagar11)
-- Specialization: Relational Database Engineering & SQL Server Performance Optimization
