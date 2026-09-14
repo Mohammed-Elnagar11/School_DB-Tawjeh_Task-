@@ -678,7 +678,7 @@ Tawjeh-Sprint-4-SQL-/
 │   ├── 05_procedures.sql       # Business-enforcing stored procedures & transactions
 │   └── 06_functions.sql        # Scalar and Inline Table-Valued Functions (UDFs)
 │
-└── README.md                   # Comprehensive engineering documentation & indexing analysis
+└── README.md                   # Comprehensive engineering documentation
 ```
 
 ---
