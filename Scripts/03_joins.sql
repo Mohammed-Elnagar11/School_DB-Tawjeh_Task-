@@ -19,10 +19,10 @@ HAVING COUNT(C.CId) > 3;
 -- students who have not any graded enrollment.
 
 SELECT S.SId, S.SName FROM Student S
-INNER JOIN Enrollment E
+LEFT JOIN Enrollment E
 ON S.SId = E.SId
 GROUP BY S.SId, S.SName
-HAVING COUNT(E.EGrade) = 0;
+HAVING COUNT(E.CId) = 0;
 
 
 -- Departments whose Lead Teacher supervises more than 5 teachers.
